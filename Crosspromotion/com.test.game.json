@@ -1,8 +1,12 @@
 {
     "CrossPromoUnits": [
         {
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.water.shooting.pool.arena",
-            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Test/main/Crosspromotion/Images/Background.png"
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.offroad.heavy.duty.tractor.pull",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Test/main/Crosspromotion/Images/CarTransporter.png"
+        },
+         {
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.car.transporter.truck.trailer",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Test/main/Crosspromotion/Images/CarTransporter.png"
         }
        
     ]
